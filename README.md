@@ -1,4 +1,4 @@
-##RecTinder
+## RecTinder
 
 Tinder UI Clone , created with React and Material Design.
 
